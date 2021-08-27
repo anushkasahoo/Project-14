@@ -1,0 +1,46 @@
+body
+{
+  color: white;
+  background:palegreen;
+}
+
+span
+{
+  font-size: 30px;
+}
+#camera , #camera1
+{
+  border: 2px dashed white;
+  width: 350px;
+  height: 300px; 
+}
+.handgesture_name
+{
+  font-size: 40px;
+}
+.hand_gestures
+{
+  font-size:48px;
+}
+.heading
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+label
+{
+  font-size: 14px;
+  color: aqua;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: white;
+}
+.snapshot_div
+{
+  float: left;
+}
+.prediction_div
+{
+  float: right;
+}
